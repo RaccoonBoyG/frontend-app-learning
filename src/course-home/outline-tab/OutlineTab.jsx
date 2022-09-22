@@ -131,7 +131,7 @@ function OutlineTab({ intl }) {
     <>
       <div data-learner-type={learnerType} className="row w-100 mx-0 my-3 justify-content-between">
         <div className="col-12 col-sm-auto p-0">
-          <div role="heading" aria-level="1" className="h2">{title}</div>
+          <div role="heading" aria-level="1" className="h4">{title}</div>
         </div>
       </div>
       {/** [MM-P2P] Experiment (className for optimizely trigger) */}
